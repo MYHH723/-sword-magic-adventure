@@ -7,7 +7,7 @@ This game is intentionally designed around chance and character growth, not comp
 
 🎲 Luck Over Strategy – Combat outcomes depend solely on your stats vs. enemy stats
 
-🏃 Quick Sessions – Each full run takes about 10–15 minutes
+🏃 Quick Sessions – Each full run takes about 2-3 minutes
 
 🔄 Random Generation – Rooms, monsters, traps, and merchant items are randomized every time
 
